@@ -1,3 +1,5 @@
+## Hi there 👋
+
 I am a data scientist and public health specialist who is passionate about leveraging evidence and analytics for global impact. I’ve spent the last several years at USAID, where I helped lead data science efforts for [PEPFAR](https://www.state.gov/pepfar/) – the U.S. government’s flagship global health program and the largest initiative in the world targeting HIV/AIDS.
 
 Throughout my tenure, I collaborated with governments and partners across more than a dozen countries to apply epidemiological modeling, geospatial analysis, and analytics to drive programmatic strategy for high-impact global health programs. My work has supported HIV, tuberculosis, and other global health programs in over a dozen countries, with a focus on conducting rigorous analytics and statistical modeling, automating data workflows and reporting systems, and developing open-source tools to make data more actionable and accessible for cross-functional stakeholders.
