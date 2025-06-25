@@ -1,14 +1,10 @@
-## Hi there 👋
-
-I am a data scientist and public health specialist who is passionate about leveraging evidence and analytics for global impact. I’ve spent the last several years at USAID, where I helped lead data science efforts for [PEPFAR]([url](https://www.state.gov/pepfar/) – the U.S. government’s flagship global health program and the largest initiative in the world targeting HIV/AIDS.
+I am a data scientist and public health specialist who is passionate about leveraging evidence and analytics for global impact. I’ve spent the last several years at USAID, where I helped lead data science efforts for [PEPFAR](https://www.state.gov/pepfar/) – the U.S. government’s flagship global health program and the largest initiative in the world targeting HIV/AIDS.
 
 Throughout my tenure, I collaborated with governments and partners across more than a dozen countries to apply epidemiological modeling, geospatial analysis, and analytics to drive programmatic strategy for high-impact global health programs. My work has supported HIV, tuberculosis, and other global health programs in over a dozen countries, with a focus on conducting rigorous analytics and statistical modeling, automating data workflows and reporting systems, and developing open-source tools to make data more actionable and accessible for cross-functional stakeholders.
 
-I had the privilege to collaborate with a small group of data scientists ([@USAID-OHA-SI]([url](https://github.com/USAID-OHA-SI)), helping to advance analytics tools, data management practices, data visualization and communications globally. 
+I had the privilege to collaborate with a small group of data scientists at [@USAID-OHA-SI](https://github.com/USAID-OHA-SI), helping to advance analytics tools, data management practices, data visualization, and communications globally.
 
-My public presentations can be found on [Speaker Deck]([url](https://speakerdeck.com/karishmas26), my 2023 and 2024 talks at Posit Conf can be here ([2023]([url](https://www.youtube.com/watch?v=-0pPBAiJaYk), [2024]([url](https://www.youtube.com/watch?v=AAtauBhZvHg).
-
-
+My public presentations can be found on [Speaker Deck](https://speakerdeck.com/karishmas26). My talks at Posit Conf can be found here: [2023](https://www.youtube.com/watch?v=-0pPBAiJaYk), [2024](https://www.youtube.com/watch?v=AAtauBhZvHg).
 
 
 <!--
